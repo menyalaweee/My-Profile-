@@ -2,7 +2,7 @@
 
 Saya adalah mahasiswa **Informatika di Institut Teknologi Sumatera (ITERA)** yang memiliki ketertarikan mendalam pada ekosistem **Data Science** dan **Full-Stack Development**. Fokus utama saya adalah mengubah data mentah menjadi wawasan yang dapat ditindaklanjuti serta merancang solusi sistem yang cerdas dan efisien.
 
-Saat ini, saya antusias untuk berkolaborasi dalam proyek yang berdampak, baik di bidang pemerintahan, FMCG, maupun teknologi inovatif lainnya.
+Saat ini, saya terus mengeksplorasi integrasi antara analisis data, algoritma optimasi, dan pengembangan aplikasi berbasis sistem informasi. Saya antusias untuk berkolaborasi dalam proyek yang berdampak, baik di bidang pemerintahan, FMCG, maupun teknologi inovatif lainnya.
 
 ### 🚀 Apa yang sedang saya kerjakan?
 * **Data Science:** Menerapkan algoritma optimasi (seperti GA, ACO, PSO) dan klasterisasi untuk evaluasi kinerja.
@@ -20,7 +20,7 @@ Saat ini, saya antusias untuk berkolaborasi dalam proyek yang berdampak, baik di
 
 | Kategori | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-E34F26?style=for-the-badge&logo=sqlite&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-E34F26?style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) |
 | **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
 | **GIS & Spatial** | ![PostGIS](https://img.shields.io/badge/PostGIS-1E8CBE?style=for-the-badge&logo=postgresql&logoColor=white) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white) |
 | **Visualization** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) |
