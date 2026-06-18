@@ -4,11 +4,6 @@ Saya adalah mahasiswa **Informatika di Institut Teknologi Sumatera (ITERA)** yan
 
 Saat ini, saya terus mengeksplorasi integrasi antara analisis data, algoritma optimasi, dan pengembangan aplikasi berbasis sistem informasi. Saya antusias untuk berkolaborasi dalam proyek yang berdampak, baik di bidang pemerintahan, FMCG, maupun teknologi inovatif lainnya.
 
-### 🚀 Apa yang sedang saya kerjakan?
-* **Data Science:** Menerapkan algoritma optimasi (seperti GA, ACO, PSO) dan klasterisasi untuk evaluasi kinerja.
-* **Full-Stack Development:** Membangun aplikasi web dan mobile menggunakan *stack* modern seperti FastAPI, React.js, PostgreSQL/PostGIS, dan Kotlin Multiplatform.
-* **Eksplorasi Teknis:** Mendalami arsitektur sistem, *Edge Computing*, dan pipeline data real-time menggunakan Kafka.
-
 **Mari terhubung dan bangun sesuatu yang berdampak!**
 * 📧 Email: [awiseptianprasetyo@gmail.com](mailto:awiseptianprasetyo@gmail.com)
 * 🔗 LinkedIn: [Awi Septian Prasetyo](https://www.linkedin.com/in/awiseptianprasetyo)
