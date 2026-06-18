@@ -1,4 +1,4 @@
-# Hi there, I'm Awi Septian Prasetyo! 👋
+# Halo Guys, I'm Awi! 👋
 
 I am an Informatics Engineering student with a versatile skill set spanning the **Data Ecosystem, UI/UX & Graphic Design, Spatial Technology, and Full-Stack Development (Web & Mobile)**.
 
