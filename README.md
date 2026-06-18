@@ -1,24 +1,20 @@
-# Halo, saya Awi Septian Prasetyo! 👋
+# Hi there, I'm Awi Septian Prasetyo! 👋
 
-Saya adalah mahasiswa **Informatika di Institut Teknologi Sumatera (ITERA)** yang memiliki ketertarikan mendalam pada ekosistem **Data Science** dan **Full-Stack Development**. Fokus utama saya adalah mengubah data mentah menjadi wawasan yang dapat ditindaklanjuti serta merancang solusi sistem yang cerdas dan efisien.
+I am an Informatics Engineering student with a versatile skill set spanning the **Data Ecosystem, UI/UX & Graphic Design, Spatial Technology, and Full-Stack Development (Web & Mobile)**.
 
-Saat ini, saya terus mengeksplorasi integrasi antara analisis data, algoritma optimasi, dan pengembangan aplikasi berbasis sistem informasi. Saya antusias untuk berkolaborasi dalam proyek yang berdampak, baik di bidang pemerintahan, FMCG, maupun teknologi inovatif lainnya.
+I have the flexibility to take on specific roles tailored to project needs—whether it's engineering data architectures, processing spatial information, developing end-to-end web/mobile applications, or designing intuitive visual interfaces—to deliver targeted and effective technological solutions.
 
-**Mari terhubung dan bangun sesuatu yang berdampak!**
+### 📫 Let's Connect and Build Something Impactful!
 * 📧 Email: [awiseptianprasetyo@gmail.com](mailto:awiseptianprasetyo@gmail.com)
 * 🔗 LinkedIn: [Awi Septian Prasetyo](https://www.linkedin.com/in/awiseptianprasetyo)
 * 🎵 TikTok: [@menyalaweee](https://www.tiktok.com/@menyalaweee)
 
----
-### Tools & Technologies
+### 🛠️ Tools & Technologies
 
-| Kategori | Tools & Technologies |
+| Category | Technologies Used |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-E34F26?style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **GIS & Spatial** | ![PostGIS](https://img.shields.io/badge/PostGIS-1E8CBE?style=for-the-badge&logo=postgresql&logoColor=white) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white) |
-| **Visualization** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) |
-| **Version Control**| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| **IDE & Ecosystem** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) |
-| **AI & ML Tools** | ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) |
-| **Documentation** | ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white) |
+| **Data Ecosystem** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <br> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" /> |
+| **Spatial Technology** | <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" /> <img src="https://img.shields.io/badge/PostGIS-1E8CBE?style=for-the-badge&logo=postgresql&logoColor=white" /> |
+| **Full-Stack Development** | <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" /> <br> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> |
+| **Visual & UI/UX Design** | <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" /> |
+| **Supporting Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <br> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> |
