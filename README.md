@@ -10,7 +10,6 @@ Saat ini, saya terus mengeksplorasi integrasi antara analisis data, algoritma op
 * 🎵 TikTok: [@menyalaweee](https://www.tiktok.com/@menyalaweee)
 
 ---
-
 ### Tools & Technologies
 
 | Kategori | Tools & Technologies |
